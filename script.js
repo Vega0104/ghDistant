@@ -24,3 +24,7 @@ function helloWorld() {
 
 // Appeler la fonction pour exécuter l'algorithme
 helloWorld();
+
+
+
+console.log("test hook");
