@@ -1,10 +1,10 @@
 // const.js
 
 const CONFIG = {
-    title: 'Hello world',
-    labelText: 'Hello world',
-    labelWidth: '200px',
-    labelHeight: '200px',
+    title: 'Hello im a beautyfull title',
+    labelText: 'Hello im a beautyfull label',
+    labelWidth: '400px',
+    labelHeight: '400px',
     labelTextColor: 'center',
     labelBackgroundColor: 'yellow',
     labelTextAlign: 'center',
