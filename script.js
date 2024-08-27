@@ -28,3 +28,4 @@ helloWorld();
 
 
 console.log("test hook");
+prompt("Are u lucky ?");
