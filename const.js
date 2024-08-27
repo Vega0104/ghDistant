@@ -3,8 +3,8 @@
 const CONFIG = {
     title: 'Hello im a beautyfull title',
     labelText: 'Hello im a beautyfull label',
-    labelWidth: '400px',
-    labelHeight: '400px',
+    labelWidth: '350px',
+    labelHeight: '350px',
     labelTextColor: 'center',
     labelBackgroundColor: 'yellow',
     labelTextAlign: 'center',
